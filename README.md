@@ -7,7 +7,7 @@ Safe. Systematic. Modern.
 
 ## Overview
 
-The **XDA Master Toolkit** is a comprehensive, open-source suite of tools designed to make Android device modification safe, accessible, and universal.
+The **Android Master Toolkit** is a comprehensive, open-source suite of tools designed to make Android device modification safe, accessible, and universal.
 
 From partition backups to verified boot management, from kernel customization to GSI installation, this toolkit provides a structured, safety-first approach to Android modification across modern devices (Android 8–15+).
 
