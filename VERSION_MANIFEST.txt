@@ -1,0 +1,9 @@
+
+Android Master Suite
+Canonical Build
+
+Version: 6.1.0-CANONICAL
+Build Date: 2026-02-10T23:26:01.527570 UTC
+
+This build unifies all subsystems under a single CLI
+and prepares the architecture for plugin-style expansion.
