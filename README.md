@@ -224,7 +224,7 @@ Users are responsible for understanding their device and unlocking implications.
 
 ## Vision
 
-The XDA Master Toolkit aims to become:
+The Android Master Toolkit aims to become:
 
 - The standard reference framework for Android modification
 - A trusted safety layer for ROM installation
